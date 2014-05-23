@@ -8,45 +8,48 @@ well: I am an electrical/computer engineer and full stack developer working out 
 ---
 
 ## Education ##
-#### Master of Science ECE (Electrical and Computer Engineering) [2008]
+#### Master of Science ECE (Electrical and Computer Engineering) \[2008]
 **Georgia Institute of Technology**, Metz, France
+
  - Specialization in Telecommunications, Networks, and Signal Processing
 
-#### Master Recherche SIAO (Signals, Images, Acoustics and Optimization) [2008]
+#### Master Recherche SIAO (Signals, Images, Acoustics and Optimization) \[2008]
 **National Polytechnic Institute of Toulouse (INP/ ENSEEIHT)**, Toulouse, France
+
  - Specialization in Signal and Image Processing
 
-#### Bachelor of Science in Engineering ECE - with Honors [2006]
+#### Bachelor of Science in Engineering ECE - with Honors \[2006]
 **Mercer University**, Macon, GA
+
  - Selected by College of Engineering, "Outstanding Electrical Engineering Student."
 
 
 ## Work History ##
 
-#### Tennessee Valley Authority, Chattanooga, TN [2009 - present]
+#### Tennessee Valley Authority, Chattanooga, TN \[2009 - present]
 **Instrumentation and Controls Engineer**
  - Support Nuclear Core Monitoring systems accross 6 nuclear units
  - Initiated and developed new software to calculate Spent Fuel Pool time-to-boil to meet Fukushima requirements
  - In charge of Implementing cyber security controls for various nuclear systems
  - Develop nuclear fuels related software in Python and Fortran
-#### GE Healthcare, Paris, France [2008]
+#### GE Healthcare, Paris, France \[2008]
 **Research Intern**
  - Research with tomosynthesis in digital mammography.
  - Developed image correction process for tomosynthesis image acquisition.
  - Created test for determination of lossy compression threshold for tomographic images.
 
-#### Georgia Institute of Technology, Metz, France [2007]
+#### Georgia Institute of Technology, Metz, France \[2007]
 **Graduate Assistant**
  - Aided in management of GA Tech's summer undergraduate study abroad program in Metz.
  - Duties included language translation for students as well as organization of excursions and events.
 
-#### Tennessee Valley Authority, Chattanooga, TN [2005]
+#### Tennessee Valley Authority, Chattanooga, TN \[2005]
 **Electrical Engineering Intern**
  - In charge of unit 4 recorder replacement as-built drawing project for Widows Creek Fossil Plant in Alabama.
  - Designed database for storage of transformer tap settings. 
  - Assisted engineers in the fossil electrical engineering department with various projects.
 
-#### Novell Certified Network Administrator [1999 - 2006]
+#### Novell Certified Network Administrator \[1999 - 2006]
  - Worked as part-time assistant to the network administrator during four years of high school.
  - Part-time work setting up small business and home networks, operating system and application installation and support, hardware installation and support.
 
