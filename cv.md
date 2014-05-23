@@ -1,5 +1,3 @@
----
----
 # Stephen J. Spalding #
 *Curriculum Vitae*
 
