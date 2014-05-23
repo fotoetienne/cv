@@ -4,7 +4,10 @@ title: Stephen Spalding
 tagline: Curriculum Vitae
 long_title: Stephen Spalding | Curriculum Vitae
 description: Stephen Spalding is a Electrical/Computer Engineer in Chattanooga, TN
-well: I am an electrical/computer engineer and full stack developer working out of lovely Chattanooga, TN. I currently enjoy working with nuclear core monitoring systems as well as full stack web development. 
+well: I am an electrical/computer engineer and 
+ software developer working out of lovely Chattanooga, TN. I currently
+ enjoy working with nuclear core monitoring systems as well as
+ web development and cycling.
 ---
 
 ## Education ##
