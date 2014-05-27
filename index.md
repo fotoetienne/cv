@@ -31,7 +31,7 @@ well: I am an electrical/computer engineer and
 
 #### Tennessee Valley Authority, Chattanooga, TN \[2009 - present]
 **Instrumentation and Controls Engineer**
- - Support Nuclear Core Monitoring systems accross 6 nuclear units
+ - Support Nuclear Core Monitoring systems across 6 nuclear units
  - Initiated and developed new software to calculate Spent Fuel Pool time-to-boil to meet Fukushima requirements
  - In charge of Implementing cyber security controls for various nuclear systems
  - Develop nuclear fuels related software in Python and Fortran
