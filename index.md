@@ -35,6 +35,7 @@ well: I am an electrical/computer engineer and
  - Initiated and developed new software to calculate Spent Fuel Pool time-to-boil to meet Fukushima requirements
  - In charge of Implementing cyber security controls for various nuclear systems
  - Develop nuclear fuels related software in Python and Fortran
+
 #### GE Healthcare, Paris, France \[2008]
 **Research Intern**
  - Research with tomosynthesis in digital mammography.
@@ -58,11 +59,13 @@ well: I am an electrical/computer engineer and
 
 
 ## Skills ##
-A true "Full Stack" Developer, from graphics to bare metal.
+A true "Full Stack" Developer, from graphics to hardware.
 #### Front End / UI
-Photographer. Photoshop afficianatto. Fluent with vector graphics.
+Photographer. Photoshop afficianatto. Passionate about user experience.
+Fluent in with vector graphics.
 Familiar with CSS, Javascript, HTML 5.
 Interested in learning Angular/React
+
 #### Programming
  - Python
  - Ruby
@@ -71,10 +74,12 @@ Interested in learning Angular/React
  - SQL
  - Bash
  - Whatever is best suited for the task at hand
+
 #### OS
  - Linux guru. RedHat, SLES, Ubuntu, etc.
  - Experienced HP-UX Unix admin
  - OpenVMS
  - Experience with virtual deployments using both VM and LXC container technology.
-#### Metal
- - Electrical engineer
+
+#### Hardware
+ - BS and MS in electrical and computer engineering
