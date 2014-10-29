@@ -34,29 +34,29 @@ well: I am an electrical/computer engineer and
 ## Work History ##
 
 #### Tennessee Valley Authority, Chattanooga, TN \[2009 - present]
-
 **Instrumentation and Controls Engineer**
+
  - Support Nuclear Core Monitoring systems across 6 nuclear units
  - Initiated and developed new software to calculate Spent Fuel Pool time-to-boil to meet Fukushima requirements
  - In charge of Implementing cyber security controls for various nuclear systems
  - Develop nuclear fuels related software in Python and Fortran
 
 #### GE Healthcare, Paris, France \[2008]
-
 **Research Intern**
+
  - Research with tomosynthesis in digital mammography.
  - Developed image correction process for tomosynthesis image acquisition.
  - Created test for determination of lossy compression threshold for tomographic images.
 
 #### Georgia Institute of Technology, Metz, France \[2007]
-
 **Graduate Assistant**
+
  - Aided in management of GA Tech's summer undergraduate study abroad program in Metz.
  - Duties included language translation for students as well as organization of excursions and events.
 
 #### Tennessee Valley Authority, Chattanooga, TN \[2005]
-
 **Electrical Engineering Intern**
+
  - In charge of unit 4 recorder replacement as-built drawing project for Widows Creek Fossil Plant in Alabama.
  - Designed database for storage of transformer tap settings. 
  - Assisted engineers in the fossil electrical engineering department with various projects.
@@ -68,7 +68,6 @@ well: I am an electrical/computer engineer and
 
 
 ## Skills ##
-
 A true "Full Stack" Developer, from graphics to hardware.
 
 #### Front End / UI
