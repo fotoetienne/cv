@@ -74,7 +74,6 @@ A true "Full Stack" Developer, from graphics to hardware.
 Photographer. Photoshop afficianatto. Passionate about user experience.
 Fluent in vector graphics.
 Familiar with CSS, Javascript, HTML 5.
-Interested in learning Angular/React
 
 #### Programming
  - Python
