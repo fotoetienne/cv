@@ -38,7 +38,7 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 #### OpenTable \[2015 - present] ####
 **Senior Software Engineer**
 
- - Lead development of OpenTable's SMS/email messaging service
+ - Led development of OpenTable's SMS/email messaging service
  - Scaled messaging service 90x to handle millions of transactional messages per month
  - Reduced worst case message latency from 10 minutes to 10 seconds
 
