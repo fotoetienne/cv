@@ -48,20 +48,20 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
  - In charge of implementing cyber security controls for various nuclear systems
  - Employed Forward Error Correction to allow reliable streaming through a data diode
  - Initiated and developed new software to calculate Spent Fuel Pool time-to-boil to meet Fukushima requirements
- - Develop nuclear fuels related software in Python and Fortran
- - Support Nuclear Core Monitoring systems across 6 nuclear units
+ - Developed nuclear fuels related software in Python and Fortran
+ - Supported Nuclear Core Monitoring systems across 6 nuclear units
 
 #### GE Healthcare, Paris, France \[2008]
 **Research Intern**
 
- - Research with tomosynthesis in digital mammography.
+ - Researched tomosynthesis in digital mammography.
  - Developed image correction process for tomosynthesis image acquisition.
  - Created test for determination of lossy compression threshold for tomographic images.
 
 #### Georgia Institute of Technology, Metz, France \[2007]
 **Graduate Assistant**
 
- - Aided in management of GA Tech's summer undergraduate study abroad program in Metz.
+ - Aided in management of GA Tech's summer undergraduate study abroad program in France.
  - Duties included language translation for students as well as organization of excursions and events.
 
 #### Tennessee Valley Authority, Chattanooga, TN \[2005]
