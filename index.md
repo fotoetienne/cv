@@ -67,9 +67,8 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 #### Tennessee Valley Authority, Chattanooga, TN \[2005]
 **Electrical Engineering Intern**
 
- - In charge of unit 4 recorder replacement as-built drawing project for Widows Creek Fossil Plant in Alabama.
+ - In charge of unit 4 recorder replacement as-built drawing project for Widows Creek Fossil Plant.
  - Designed database for storage of transformer tap settings.
- - Assisted engineers in the fossil electrical engineering department with various projects.
 
 ## Skills ##
 A true "Full Stack" Developer, from graphics to hardware.
@@ -88,7 +87,7 @@ I appreciate the simplicity that React.js can facilitate.
  - Whatever is best suited for the task at hand
 
 #### Hardware
-I built my own analog wah pedal.
+I built my own induction wah pedal.
 
 ## Talks ##
 
