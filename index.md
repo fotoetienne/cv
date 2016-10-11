@@ -95,11 +95,11 @@ I built my own analog wah pedal.
 ### The Network is Reliable and Other Tall Tales ###
  - January 2016 @ Georgia Institute of Technology
  - February 2016 @ Chadev
- - https://youtu.be/dVriGc9pTgY?t=8m11s
+ - [https://youtu.be/dVriGc9pTgY?t=8m11s](https://youtu.be/dVriGc9pTgY?t=8m11s)
 
 ### How Complex Systems Fail ###
  - November 3rd, 2015 @ Lambda Lounge Chattanooga
 
 ### The UNIX Philosophy ###
  - August 2015 @ Chattanooga Developers Lunch
- - https://youtu.be/6OKXxQQHTLQ
+ - [https://youtu.be/6OKXxQQHTLQ](https://youtu.be/6OKXxQQHTLQ)
