@@ -67,7 +67,7 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 #### Tennessee Valley Authority, Chattanooga, TN \[2005]
 **Electrical Engineering Intern**
 
- - In charge of unit 4 recorder replacement as-built drawing project for Widows Creek Fossil Plant.
+ - In charge of unit 4 recorder replacement project for Widows Creek Fossil Plant.
  - Designed database for storage of transformer tap settings.
 
 ## Skills ##
@@ -76,11 +76,12 @@ A true "Full Stack" Developer, from graphics to hardware.
 #### Front End / UI
 Photographer. Typographic enthusiast. Passionate about user experience.
 Fluent in vector graphics.
-I appreciate the simplicity that React.js can facilitate.
+I appreciate the simplicity that React.js affords.
 
 #### Programming
  - [Python](https://github.com/fotoetienne/shootout/blob/master/2014-08-11/stephen/shootout.py)
  - [Clojure](https://github.com/fotoetienne/steadyhash/blob/master/src/steadyhash/maglev.cljc)
+ - [Go](https://github.com/fotoetienne/humot)
  - [Haskell](https://github.com/fotoetienne/riskattack)
  - [Fortran](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/WABBITS.FOR)
  - [Shakespeare](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/tamingofthewabbit.spl)
