@@ -1,7 +1,7 @@
 ---
 layout: flatly
 title: Stephen Spalding
-tagline: Curriculum Vitae
+tagline: Curriculum Vitæ
 long_title: Stephen Spalding | Curriculum Vitae
 description: Stephen Spalding is an Engineer in Chattanooga, TN
 
