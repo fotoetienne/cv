@@ -3,11 +3,13 @@ layout: flatly
 title: Stephen Spalding
 tagline: Curriculum Vitae
 long_title: Stephen Spalding | Curriculum Vitae
-description: Stephen Spalding is a Electrical/Computer Engineer in Chattanooga, TN
-well: I am an electrical/computer engineer and 
- software developer working out of lovely Chattanooga, TN. I currently
- enjoy working with nuclear core monitoring systems as well as
- web development and cycling.
+description: Stephen Spalding is an Engineer in Chattanooga, TN
+
+well: Through developing software for Nuclear Reactors, 3d X-ray machines,
+  and OpenTable's SMS messaging system I've learned the value of simplicity
+  and robustness. I believe in leading through earned respect and mutual trust.
+  I enjoy solving problems that don't have solutions.
+
 ---
 
 ## Education ##
@@ -33,13 +35,21 @@ well: I am an electrical/computer engineer and
 
 ## Work History ##
 
-#### Tennessee Valley Authority, Chattanooga, TN \[2009 - present]
+#### OpenTable \[2015 - present] ####
+**Senior Software Engineer**
+
+ - Lead development of OpenTable's SMS/email messaging service
+ - Scaled messaging service 90x to handle millions of transactional messages per month
+ - Reduced worst case message latency from 10 minutes to 10 seconds
+
+#### Tennessee Valley Authority, Chattanooga, TN \[2009 - 2014]
 **Instrumentation and Controls Engineer**
 
- - Support Nuclear Core Monitoring systems across 6 nuclear units
+ - In charge of implementing cyber security controls for various nuclear systems
+ - Employed Forward Error Correction to allow reliable streaming through a data diode
  - Initiated and developed new software to calculate Spent Fuel Pool time-to-boil to meet Fukushima requirements
- - In charge of Implementing cyber security controls for various nuclear systems
  - Develop nuclear fuels related software in Python and Fortran
+ - Support Nuclear Core Monitoring systems across 6 nuclear units
 
 #### GE Healthcare, Paris, France \[2008]
 **Research Intern**
@@ -58,37 +68,38 @@ well: I am an electrical/computer engineer and
 **Electrical Engineering Intern**
 
  - In charge of unit 4 recorder replacement as-built drawing project for Widows Creek Fossil Plant in Alabama.
- - Designed database for storage of transformer tap settings. 
+ - Designed database for storage of transformer tap settings.
  - Assisted engineers in the fossil electrical engineering department with various projects.
-
-#### Novell Certified Network Administrator \[1999 - 2006]
-
- - Worked as part-time assistant to the network administrator during four years of high school.
- - Part-time work setting up small business and home networks, operating system and application installation and support, hardware installation and support.
-
 
 ## Skills ##
 A true "Full Stack" Developer, from graphics to hardware.
 
 #### Front End / UI
-Photographer. Photoshop afficianatto. Passionate about user experience.
+Photographer. Typographic enthusiast. Passionate about user experience.
 Fluent in vector graphics.
-Familiar with CSS, Javascript, HTML 5.
+I appreciate the simplicity that React.js can facilitate.
 
 #### Programming
- - Python
- - Ruby
- - C
- - Fortran
- - SQL
- - Bash
+ - [Python](https://github.com/fotoetienne/shootout/blob/master/2014-08-11/stephen/shootout.py)
+ - [Clojure](https://github.com/fotoetienne/steadyhash/blob/master/src/steadyhash/maglev.cljc)
+ - [Haskell](https://github.com/fotoetienne/riskattack)
+ - [Fortran](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/WABBITS.FOR)
+ - [Shakespeare](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/tamingofthewabbit.spl)
  - Whatever is best suited for the task at hand
 
-#### OS
- - Linux guru. RedHat, SLES, Ubuntu, etc.
- - Experienced HP-UX Unix admin
- - OpenVMS
- - Experience with virtual deployments using both VM and LXC container technology.
-
 #### Hardware
- - BS and MS in electrical and computer engineering
+I built my own analog wah pedal.
+
+## Talks ##
+
+### The Network is Reliable and Other Tall Tales ###
+ - January 2016 @ Georgia Institute of Technology
+ - February 2016 @ Chadev
+ - https://youtu.be/dVriGc9pTgY?t=8m11s
+
+### How Complex Systems Fail ###
+ - November 3rd, 2015 @ Lambda Lounge Chattanooga
+
+### The UNIX Philosophy ###
+ - August 2015 @ Chattanooga Developers Lunch
+ - https://youtu.be/6OKXxQQHTLQ
