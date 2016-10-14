@@ -81,6 +81,7 @@ I appreciate the simplicity that React.js affords.
 #### Programming
  - [Python](https://github.com/fotoetienne/shootout/blob/master/2014-08-11/stephen/shootout.py)
  - [Clojure](https://github.com/fotoetienne/steadyhash/blob/master/src/steadyhash/maglev.cljc)
+ - [Swift](https://github.com/opentable/HLClock)
  - [Go](https://github.com/fotoetienne/humot)
  - [Haskell](https://github.com/fotoetienne/riskattack)
  - [Fortran](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/WABBITS.FOR)
