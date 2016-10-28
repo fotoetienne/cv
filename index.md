@@ -39,8 +39,9 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 **Senior Software Engineer**
 
  - Led development of OpenTable's SMS/email messaging service
- - Scaled messaging service 90x to handle millions of transactional messages per month
+ - Scaled messaging service 300x to handle millions of transactional messages per month
  - Reduced worst case message latency from 10 minutes to 10 seconds
+ - Used Machine Learning ([k-means clustering](http://fotoetienne.github.io/diner_replies/diner_replies.html)) to classify diner text messages
 
 #### Tennessee Valley Authority, Chattanooga, TN \[2009 - 2014]
 **Instrumentation and Controls Engineer**
