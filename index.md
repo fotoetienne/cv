@@ -3,10 +3,10 @@ layout: flatly
 title: Stephen Spalding
 tagline: Curriculum Vitæ
 long_title: Stephen Spalding | Curriculum Vitae
-description: Stephen Spalding is an Engineer in Chattanooga, TN
+description: Stephen Spalding is an Engineer that enjoys large-scale distributed systems
 
 well: Through developing software for Nuclear Reactors, 3d X-ray machines,
-  and OpenTable's SMS messaging system I've learned the value of simplicity
+  OpenTable's messaging system, and Netflix's API I've learned the value of simplicity
   and robustness. I believe in leading through earned respect and mutual trust.
   I enjoy solving problems that don't have solutions.
 
@@ -35,7 +35,14 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 
 ## Work History ##
 
-#### OpenTable \[2015 - present] ####
+#### Netflix \[2017 - present] ####
+**Software Engineer (Staff/Principal)**
+
+ - Devised and led implementation of sharding schema for API server which improves efficiency and saves $10M/yr
+ - Embedded with resilience team to develop server capacity test based on PID control theory
+ - Led development of Netflix's [Federating GraphQL Gateway](https://youtu.be/DcVJNgZi3gc). This platform now powers >60 Netflix Studio applications
+
+#### OpenTable \[2015 - 2017] ####
 **Senior Software Engineer**
 
  - Led development of OpenTable's SMS/email messaging service
@@ -59,27 +66,15 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
  - Developed image correction process for tomosynthesis image acquisition.
  - Created test for determination of lossy compression threshold for tomographic images.
 
-#### Georgia Institute of Technology, Metz, France \[2007]
-**Graduate Assistant**
-
- - Aided in management of GA Tech's summer undergraduate study abroad program in France.
- - Duties included language translation for students as well as organization of excursions and events.
-
-#### Tennessee Valley Authority, Chattanooga, TN \[2005]
-**Electrical Engineering Intern**
-
- - In charge of unit 4 recorder replacement project for Widows Creek Fossil Plant.
- - Designed database for storage of transformer tap settings.
-
 ## Skills ##
 A true "Full Stack" Developer, from graphics to hardware.
 
 #### Front End / UI
 Photographer. Typographic enthusiast. Passionate about user experience.
 Fluent in vector graphics.
-I appreciate the simplicity that React.js affords.
 
 #### Programming
+ - [Kotlin](https://github.com/fotoetienne/advent/tree/master/2019)
  - [Python](https://github.com/fotoetienne/shootout/blob/master/2014-08-11/stephen/shootout.py)
  - [Clojure](https://github.com/fotoetienne/steadyhash/blob/master/src/steadyhash/maglev.cljc)
  - [Swift](https://github.com/opentable/HLClock)
@@ -87,12 +82,18 @@ I appreciate the simplicity that React.js affords.
  - [Haskell](https://github.com/fotoetienne/riskattack)
  - [Fortran](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/WABBITS.FOR)
  - [Shakespeare](https://github.com/fotoetienne/shootout/blob/master/2015-12-01/stephen/wabbits/tamingofthewabbit.spl)
+ - TypeScript
+ - Java
  - Whatever is best suited for the task at hand
 
 #### Hardware
 I built my own induction wah pedal.
 
 ## Talks ##
+
+### How Netflix Scales its API with GraphQL Federation ###
+  - November 2020 @ QCon Plus
+  - [https://youtu.be/DcVJNgZi3gc](https://youtu.be/DcVJNgZi3gc)
 
 ### The Network is Reliable and Other Tall Tales ###
  - January 2016 @ Georgia Institute of Technology
