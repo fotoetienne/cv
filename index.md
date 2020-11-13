@@ -38,8 +38,8 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 #### Netflix \[2017 - present] ####
 **Software Engineer (Staff/Principal)**
 
- - Devised and led implementation of sharding schema for API server which improves efficiency and saves $10M/yr
- - Embedded with resilience team to develop server capacity test based on PID control theory
+ - Devised and led implementation of sharding scheme for Netflix API which improved resilience, reduced latency, and saves $10M/yr
+ - Embedded with resilience engineering to develop innovative server capacity test framework based on PID control theory
  - Led development of Netflix's [Federating GraphQL Gateway](https://youtu.be/DcVJNgZi3gc). This platform now powers >60 Netflix Studio applications
 
 #### OpenTable \[2015 - 2017] ####
@@ -92,8 +92,12 @@ I built my own induction wah pedal.
 ## Talks ##
 
 ### How Netflix Scales its API with GraphQL Federation ###
-  - November 2020 @ QCon Plus
-  - [https://youtu.be/DcVJNgZi3gc](https://youtu.be/DcVJNgZi3gc)
+ - November 2020 @ QCon Plus
+ - [https://youtu.be/DcVJNgZi3gc](https://youtu.be/DcVJNgZi3gc)
+  
+### Building Machines That Think and Learn Like People ###
+ - February 2017 @ Papers We Love
+ - [https://www.meetup.com/Papers-We-Love-Chattanooga/events/237376175/](https://www.meetup.com/Papers-We-Love-Chattanooga/events/237376175/)
 
 ### The Network is Reliable and Other Tall Tales ###
  - January 2016 @ Georgia Institute of Technology
