@@ -15,7 +15,7 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 ## Work History ##
 
 #### Netflix \[2017 - present] ####
-**Software Engineer (Staff/Principal)**
+**Senior/Staff Software Engineer**
 
  - Devised and led implementation of sharding scheme for Netflix API which improved resilience, reduced latency, and saves $10M/yr
  - Embedded with resilience engineering to develop innovative server capacity test framework based on PID control theory
