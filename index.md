@@ -94,6 +94,10 @@ I built my own induction wah pedal.
 ### How Netflix Scales its API with GraphQL Federation ###
  - November 2020 @ QCon Plus
  - [https://youtu.be/DcVJNgZi3gc](https://youtu.be/DcVJNgZi3gc)
+ 
+### Federation Panel ###
+ - July 2020 @ GraphQL Summit
+ - [https://youtu.be/JFARux-92b0](https://youtu.be/JFARux-92b0)
   
 ### Building Machines That Think and Learn Like People ###
  - February 2017 @ Papers We Love
