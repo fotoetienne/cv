@@ -12,27 +12,6 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
 
 ---
 
-## Education ##
-
-#### Master of Science ECE (Electrical and Computer Engineering) \[2008]
-
-**Georgia Institute of Technology**, Metz, France
-
- - Specialization in Telecommunications, Networks, and Signal Processing
-
-#### Master Recherche SIAO (Signals, Images, Acoustics and Optimization) \[2008]
-
-**National Polytechnic Institute of Toulouse (INP/ ENSEEIHT)**, Toulouse, France
-
- - Specialization in Signal and Image Processing
-
-#### Bachelor of Science in Engineering ECE - with Honors \[2006]
-
-**Mercer University**, Macon, GA
-
- - Selected by College of Engineering, "Outstanding Electrical Engineering Student."
-
-
 ## Work History ##
 
 #### Netflix \[2017 - present] ####
@@ -65,6 +44,27 @@ well: Through developing software for Nuclear Reactors, 3d X-ray machines,
  - Researched tomosynthesis in digital mammography.
  - Developed image correction process for tomosynthesis image acquisition.
  - Created test for determination of lossy compression threshold for tomographic images.
+
+## Education ##
+
+#### Master of Science ECE (Electrical and Computer Engineering) \[2008]
+
+**Georgia Institute of Technology**, Metz, France
+
+ - Specialization in Telecommunications, Networks, and Signal Processing
+
+#### Master Recherche SIAO (Signals, Images, Acoustics and Optimization) \[2008]
+
+**National Polytechnic Institute of Toulouse (INP/ ENSEEIHT)**, Toulouse, France
+
+ - Specialization in Signal and Image Processing
+
+#### Bachelor of Science in Engineering ECE - with Honors \[2006]
+
+**Mercer University**, Macon, GA
+
+ - Selected by College of Engineering, "Outstanding Electrical Engineering Student."
+
 
 ## Skills ##
 A true "Full Stack" Developer, from graphics to hardware.
